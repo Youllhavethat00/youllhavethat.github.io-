@@ -1,0 +1,14 @@
+/* Custom paragraph styles */
+.custom-paragraph {
+    color: #000000;
+    font-family: HelveticaNeue, sans-serif;
+    font-size: 11pt;
+    line-height: 100%;
+    margin-bottom: 0in;
+}
+
+/* Link styles */
+body {
+    color: #000080;
+    background-color: #ffffff;
+}
